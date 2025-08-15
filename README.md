@@ -31,7 +31,7 @@ mvn clean compile package
       "command": "java",
       "args": [
         "-jar",
-        "/Users/abipriya/Documents/vocab-mcp-server/target/vocab-mcp-server-0.0.1-SNAPSHOT.jar"
+        "/Users/your-path/vocab-mcp-server/target/vocab-mcp-server-0.0.1-SNAPSHOT.jar"
       ]
     }
   }
